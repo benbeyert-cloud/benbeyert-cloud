@@ -1,5 +1,5 @@
 # 💫 About Me:
-Aktuell bin ich Schüler am Berufskolleg für Technik und Informatik in Neuss und suche eine Ausbildung als Fachinformatiker für Anwendungsentwicklung.
+Aktuell bin ich Schüler am Berufskolleg für Technik und Informatik in Neuss und werde im kommenden Jahr in meine Ausbildung als Anwendungsentwickler bei Deloitte starten.
 Zurzeit beschäftige ich mich viel mit Backend- und Frontend-Entwicklung, weil mich besonders interessiert, wie moderne Anwendungen sowohl technisch im Hintergrund als auch im Design aufgebaut sind.
 
 
