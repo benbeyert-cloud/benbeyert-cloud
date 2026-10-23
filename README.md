@@ -26,7 +26,7 @@ Zurzeit beschäftige ich mich viel mit Backend- und Frontend-Entwicklung, weil m
 
 
 
-## ⚔️ `> Skill Tree
+## ⚔️  Skill Tree
 
 <div align="center">
 
