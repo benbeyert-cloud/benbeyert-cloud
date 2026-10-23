@@ -12,8 +12,6 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=benbeyert-cloud&label=PLAYER+VIEWS&color=00FF41&style=for-the-badge&labelColor=0D1117" alt="views"/>
-
 ## 🐱 About Me
 
 <div align="center">
